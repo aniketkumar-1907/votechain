@@ -5,7 +5,7 @@ const Content = (props) => {
     <div className="mcont">
       <div className="cont">
         <div className="img">
-        <img src={props.image} alt="image" width="400px" height="350px" />
+        <img src={props.image} alt="image" width="398px" height="350px" />
         </div>
         <div className="info">{props.title}</div>
         <button className="vote">Vote Now</button>
