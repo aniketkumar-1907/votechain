@@ -4,6 +4,7 @@ body{
  
 }
 header{
+  margin-top: 80px;
   display:flex;
   align-items: center;
 }
@@ -76,7 +77,10 @@ height:150px;
 .about{
   font-family: 'Courgette', cursive;
   font-size: larger;
-  margin:10px;
+  margin-right: 60px;
+  margin-left: 20px;
+  margin-top:20px;
+  
 }
 .navi>.log>button{
   background-color:#333 ;
